@@ -1,0 +1,15 @@
+id,pc,username,function name,Date,Time
+1,DESKTOP-UMP2K1I,Artsiom,load_data,03.04.2025,17:52:34
+2,DESKTOP-UMP2K1I,Artsiom,filter_states,03.04.2025,17:52:35
+3,DESKTOP-UMP2K1I,Artsiom,process_data,03.04.2025,17:52:35
+4,DESKTOP-UMP2K1I,Artsiom,plot_statistics,03.04.2025,17:52:35
+5,DESKTOP-UMP2K1I,Artsiom,load_data,03.04.2025,17:52:47
+6,DESKTOP-UMP2K1I,Artsiom,process_data,03.04.2025,17:52:48
+7,DESKTOP-UMP2K1I,Artsiom,plot_statistics,03.04.2025,17:52:48
+8,DESKTOP-UMP2K1I,Artsiom,load_data,03.04.2025,22:24:54
+9,DESKTOP-UMP2K1I,Artsiom,filter_states,03.04.2025,22:24:55
+10,DESKTOP-UMP2K1I,Artsiom,process_data,03.04.2025,22:24:55
+11,DESKTOP-UMP2K1I,Artsiom,plot_statistics,03.04.2025,22:24:55
+12,DESKTOP-UMP2K1I,Artsiom,load_data,03.04.2025,22:24:59
+13,DESKTOP-UMP2K1I,Artsiom,process_data,03.04.2025,22:25:00
+14,DESKTOP-UMP2K1I,Artsiom,plot_statistics,03.04.2025,22:25:00
